@@ -1,0 +1,6 @@
+{
+  "name": "Nilesh AI Assistant",
+  "description": "Personal AI Assistant featuring Anjali with sweet voice replies, deep thinking mode, and smart Hindi/Hinglish chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
